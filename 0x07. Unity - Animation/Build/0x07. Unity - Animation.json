@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "0x05-unity-assets_models_textures",
+"productVersion": "0.1",
+"dataUrl": "0x07. Unity - Animation.data.unityweb",
+"wasmCodeUrl": "0x07. Unity - Animation.wasm.code.unityweb",
+"wasmFrameworkUrl": "0x07. Unity - Animation.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.19f1"
+}
